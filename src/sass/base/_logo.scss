@@ -1,0 +1,13 @@
+.logo {
+  display: flex;
+  
+  
+}
+.logo-img {
+  width: 191px;
+  height: 32px;
+  @include media-tablet {
+    width: 158px;
+    height: 28px;
+  }
+}
