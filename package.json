@@ -1,0 +1,22 @@
+{
+  "name": "school",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass --watch src/sass/style.scss src/sass/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1",
+    "normalize-scss": "^7.0.1",
+    "normalize.css": "^8.0.1",
+    "normalize.scss": "^0.1.0",
+    "webpack": "^5.74.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}
